@@ -2,12 +2,7 @@
   
 # Hi there, I'm Sameer Budhiraja 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Building+Cool+Stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://github.com/sameerbudhiraja"><img src="https://img.shields.io/github/followers/sameerbudhiraja?label=Followers&style=for-the-badge&logo=github&color=6366F1&labelColor=1a1b27" alt="GitHub Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sameerbudhiraja&style=for-the-badge&color=6366F1&labelColor=1a1b27" alt="Profile Views" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Building+Cool+Stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,16 +14,16 @@
 const sameer = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: ["AI/ML", "Full Stack Development", "MCP Servers"],
-    funFact: "I turn caffeine into code ☕ → 💻"
+    currentFocus: ["Software Development", "Problem solving"],
+    funFact: "I fix bugs that I definitely didn’t create 😄"
 };
 ```
 
-- 🔭 Currently working on **MCP Servers** for AI assistants
-- 🤖 Exploring **Generative AI** and **Agentic AI** systems
-- 🌱 Learning **LangChain**, **RAG architectures**, and **Model Context Protocol**
-- 💬 Ask me about **JavaScript, Python, Web Development, AI/ML**
-- ⚡ Fun fact: I build tools that help AI work with dev platforms!
+🔭 Focused on Generative AI systems for intelligent assistants
+🌱 Actively working with LangChain, RAG pipelines, and Model Context Protocol (MCP)
+🤖 Building agentic workflows that connect AI with real-world developer tools
+💬 Ask me about JavaScript, Python, full-stack development, and Gen-AI apps
+⚡ Fun fact: I design systems where AI doesn’t just chat — it acts
 
 ---
 
@@ -39,26 +34,23 @@ const sameer = {
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### AI/ML
+### Genrative AI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Qdrant](https://img.shields.io/badge/QdrantDB-fast_and_vectorized-red)
+![MCP](https://img.shields.io/badge/MCP-ai_context_magic-black)
+![A2A](https://img.shields.io/badge/A2A-agents_talking-purple)
+![RAG](https://img.shields.io/badge/RAG-grounded_answers-blue)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -75,8 +67,6 @@ const sameer = {
 | 📊 **CCF Mapper** | Data mapping and transformation tool | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | [Repo](https://github.com/sameerbudhiraja/ccf_mapper) |
 | 💪 **LeetForce** | LeetCode problem practice platform | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | [Repo](https://github.com/sameerbudhiraja/LeetForce) • [Live](https://leet-force-init.vercel.app) |
 | 📄 **PDF Reader RAG** | RAG-based PDF reader using AI | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | [Repo](https://github.com/sameerbudhiraja/pdf_reader_rag) |
-| 🎨 **Cynthia Ugwu Clone** | Beautiful product designer portfolio clone | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) | [Repo](https://github.com/sameerbudhiraja/Cynthia-Ugwu-Product-Designer-Clone-) • [Live](https://cynthia-ugwu-product-designer-clone.vercel.app) |
-
 </div>
 
 ---
