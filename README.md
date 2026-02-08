@@ -2,7 +2,7 @@
   
 # Hi there, I'm Sameer Budhiraja 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Building+Cool+Stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Software+Developer%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,10 +43,8 @@ const sameer = {
 ### Genrative AI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Qdrant](https://img.shields.io/badge/QdrantDB-fast_and_vectorized-red)
-![MCP](https://img.shields.io/badge/MCP-ai_context_magic-black)
-![A2A](https://img.shields.io/badge/A2A-agents_talking-purple)
-![RAG](https://img.shields.io/badge/RAG-grounded_answers-blue)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Qdrant](https://img.shields.io/badge/QdrantDB-FF4F00?style=for-the-badge&logo=qdrant&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
